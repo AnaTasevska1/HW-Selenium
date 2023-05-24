@@ -1,4 +1,4 @@
-package HWClass01;
+package HWSelenium;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
